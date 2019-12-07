@@ -1,0 +1,2 @@
+serviceClass: com.h4.client.GreetingService
+path: 7DB37EA1421F3C4D9CE3B58E1F0F9A98.gwt.rpc
